@@ -49,3 +49,12 @@ main{
     font-weight: bold;
     color: #fff;
 }
+/* *********************************** Start footer section stylig ************************* */
+footer{
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    background-color: darkcyan;
+    color: royalblue;
+    font-size: 40px;
+}
